@@ -6,15 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [implementation](#implementation) (4)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
@@ -23,6 +24,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 
 ### constructive algorithms
@@ -39,6 +41,12 @@
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 450A | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | 1000 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/450/A%20-%20Jzzhu%20and%20Children/solution.java) |
 | 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 
 ### strings
 
