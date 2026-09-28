@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 5 |
+| 7 | 7 |
 
 ---
 
@@ -14,9 +14,11 @@
 
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [implementation](#implementation) (4)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (5)
 - [math](#math) (1)
-- [strings](#strings) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (3)
 
 ---
 
@@ -33,11 +35,18 @@
 |---|---------|------------|----------|
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 450A | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | 1000 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/450/A%20-%20Jzzhu%20and%20Children/solution.java) |
 | 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.java) |
@@ -48,11 +57,19 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Jannat0497/codeforces-solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ---
 
